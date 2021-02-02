@@ -1,1 +1,2 @@
+git fetch 
 Git pull command is added
